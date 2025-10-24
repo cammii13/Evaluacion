@@ -1,3 +1,3 @@
 # Programa de adivinar número aleatorio
 ## Versión
-Esta versión fué realizada por Diego Robalino 
+Esta versión fué realizada por Poleth Morales
