@@ -1,3 +1,3 @@
 # Programa de adivinar número aleatorio
 ## Versión
-Esta versión fue realizada por Camila Llusca
+Esta versión fué realizada por Poleth Morales.
