@@ -1,0 +1,28 @@
+body{
+    font-family: 'Franklin Gothic Medium';
+    background-image: url(https://img.freepik.com/psd-gratis/representacion-3d-preguntas-fondo_23-2151455632.jpg?semt=ais_hybrid&w=740&q=80);
+    height: auto;
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.contenedor{
+    width: 350px;
+    padding: 15px;
+    background-color: rgb(118, 5, 194);
+    text-align: center;
+    margin: 5px;
+    translate: center;
+    border-radius: 10px;
+    color: white;
+}
+
+.enviar {
+    margin: 18px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    font-size: medium;
+}
